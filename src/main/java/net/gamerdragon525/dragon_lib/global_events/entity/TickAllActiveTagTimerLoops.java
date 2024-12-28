@@ -52,11 +52,22 @@ public class TickAllActiveTagTimerLoops {
                 index2 = index1 + entity.getPersistentData().getString("TimerLoops").substring(index1).indexOf("]");
                 currentTagName = entity.getPersistentData().getString("TimerLoops").substring(index1, index2);
 
-                if (currentTagName.length() >= 1) {
-                    if (NBTTimerLoop.getCurrentIsPausedOfLoop(entity, currentTagName) != true) {
-                        currentTime = NBTTimerLoop.getCurrentTimeOfLoop(entity, currentTagName);
-                        if (currentTime >= 1) {
-                            net.gamerdragon525.dragon_lib.action.entity.NBTTimerLoop.setTicksOfTimerTag(entity, currentTagName, currentTime - 1);
+                if (!NBTTimerLoop.getCurrentDoseCountDownOfLoop(entity, currentTagName)) {
+                    if (currentTagName.length() >= 1) {
+                        if (!NBTTimerLoop.getCurrentIsPausedOfLoop(entity, currentTagName)) {
+                            currentTime = NBTTimerLoop.getCurrentTimeOfLoop(entity, currentTagName);
+                            if (currentTime <= 5999) {
+                                net.gamerdragon525.dragon_lib.action.entity.NBTTimerLoop.setTicksOfTimerTag(entity, currentTagName, currentTime + 1);
+                            }
+                        }
+                    }
+                } else {
+                    if (currentTagName.length() >= 1) {
+                        if (!NBTTimerLoop.getCurrentIsPausedOfLoop(entity, currentTagName)) {
+                            currentTime = NBTTimerLoop.getCurrentTimeOfLoop(entity, currentTagName);
+                            if (currentTime >= 1) {
+                                net.gamerdragon525.dragon_lib.action.entity.NBTTimerLoop.setTicksOfTimerTag(entity, currentTagName, currentTime - 1);
+                            }
                         }
                     }
                 }

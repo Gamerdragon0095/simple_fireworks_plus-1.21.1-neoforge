@@ -69,6 +69,35 @@ public class NBTTimerLoop {
         }
     }
 
+    public static boolean getCurrentDoseCountDownOfLoop(Entity entity, String name) {
+
+        if(entity.getPersistentData().getString("" + name).length() >= 1) {
+
+            String timerLoopsTag = entity.getPersistentData().getString("TimerLoops");
+            String tag = entity.getPersistentData().getString("" + name);
+
+            if (timerLoopsTag.substring(12).contains(name)) {
+
+                double index1 = tag.indexOf("doseCountDown:[", 0) + 15;
+                double index2 = tag.indexOf("]", (int) index1);
+
+                boolean doseCountDown = false;
+
+                if (tag.substring((int) index1, (int) index2).contains("true")) {
+                    doseCountDown = true;
+                }
+
+                return doseCountDown;
+            } else {
+                System.out.println("[" + (Calendar.getInstance().get(Calendar.HOUR_OF_DAY) + ":" + Calendar.getInstance().get(Calendar.MINUTE) + ":" + Calendar.getInstance().get(Calendar.SECOND)) + "] [DragonLib] Error: NBTTag with the name: '" + name + "' for entity: '" + entity.getStringUUID() + "' is not a timerTag and therefor cannot be read by this action");
+                return false;
+            }
+        } else {
+            System.out.println("[" + (Calendar.getInstance().get(Calendar.HOUR_OF_DAY) + ":" + Calendar.getInstance().get(Calendar.MINUTE) + ":" + Calendar.getInstance().get(Calendar.SECOND)) + "] [DragonLib] Error: No such timerTag with the name: '" + name + "' for entity: '" + entity.getStringUUID() + "' exists, please create a tag with this name before trying to read it");
+            return false;
+        }
+    }
+
     public static boolean doesLoopExist(Entity entity, String name) {
         if(entity.getPersistentData().getString("" + name).length() >= 1) {
 
