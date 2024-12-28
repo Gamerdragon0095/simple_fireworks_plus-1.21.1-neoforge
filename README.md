@@ -7,7 +7,7 @@ a new project as a dependency mod!
 So for now I just decided to add this little message in the read-me file to clarify, 
 I will be updating this file more once
 I manage to get it working as a dependency and will add instructions
-on how other people can add it to their own projects in the future... but for now please just be patent!
+on how other people can add it to their own projects in the future... but for now please just be patient!
 
 Installation information
 =======
