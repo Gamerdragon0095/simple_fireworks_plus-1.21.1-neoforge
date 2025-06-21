@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:unaltered_logs"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "sf_plus:mortar_block",
+    "count": 1
+  }
+}

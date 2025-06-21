@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sf_plus:item/sparkler"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sf_plus:sparkler_normal_burnt_lit": 0
+      },
+      "model": "sf_plus:item/sparkler_0"
+    },
+    {
+      "predicate": {
+        "sf_plus:sparkler_normal_burnt_lit": 1
+      },
+      "model": "sf_plus:item/sparkler_1"
+    },
+    {
+      "predicate": {
+        "sf_plus:sparkler_normal_burnt_lit": 2
+      },
+      "model": "sf_plus:item/sparkler_2"
+    }
+  ]
+}

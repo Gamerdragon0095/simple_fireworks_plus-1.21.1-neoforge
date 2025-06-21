@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sf_plus:item/blank_charge1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sf_plus:blank_charge_strength": 1
+      },
+      "model": "sf_plus:item/blank_charge_0"
+    },
+    {
+      "predicate": {
+        "sf_plus:blank_charge_strength": 2
+      },
+      "model": "sf_plus:item/blank_charge_1"
+    },
+    {
+      "predicate": {
+        "sf_plus:blank_charge_strength": 3
+      },
+      "model": "sf_plus:item/blank_charge_2"
+    }
+  ]
+}

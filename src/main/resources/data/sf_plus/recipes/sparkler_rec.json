@@ -1,0 +1,101 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "type": "forge:nbt",
+	  "item": "minecraft:potion",
+	  "nbt": "{Potion:'minecraft:water'}"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "sf_plus:glue"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:sparkler",
+    "count": 1
+  }
+}

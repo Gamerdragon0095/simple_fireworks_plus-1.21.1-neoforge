@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sf_plus:block/pyro_table"
+    },
+    "facing=east": {
+      "model": "sf_plus:block/pyro_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sf_plus:block/pyro_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sf_plus:block/pyro_table",
+      "y": 270
+    }
+  }
+}

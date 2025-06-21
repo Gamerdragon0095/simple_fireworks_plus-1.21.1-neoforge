@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sf_plus:item/firework_fan_shell_with_charge1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sf_plus:firework_fan_shell_with_charge_charge_power": 1
+      },
+      "model": "sf_plus:item/firework_fan_shell_with_charge_0"
+    },
+    {
+      "predicate": {
+        "sf_plus:firework_fan_shell_with_charge_charge_power": 2
+      },
+      "model": "sf_plus:item/firework_fan_shell_with_charge_1"
+    },
+    {
+      "predicate": {
+        "sf_plus:firework_fan_shell_with_charge_charge_power": 3
+      },
+      "model": "sf_plus:item/firework_fan_shell_with_charge_2"
+    }
+  ]
+}

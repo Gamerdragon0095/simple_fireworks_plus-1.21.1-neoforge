@@ -1,0 +1,101 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:glue"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "tag": "sf_plus:mini_firework_star_effects"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "type": "forge:nbt",
+	  "item": "minecraft:potion",
+	  "nbt": "{Potion:'minecraft:water'}"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:mini_firework_stars",
+    "count": 8
+  }
+}

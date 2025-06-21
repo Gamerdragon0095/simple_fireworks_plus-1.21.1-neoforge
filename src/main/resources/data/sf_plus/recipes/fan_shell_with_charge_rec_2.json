@@ -1,0 +1,101 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:firework_fan_shell"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "type": "forge:nbt",
+	  "item": "minecraft:potion",
+	  "nbt": "{Potion:'minecraft:water'}"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:glue"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:firework_fan_shell_with_charge",
+    "count": 1
+  }
+}

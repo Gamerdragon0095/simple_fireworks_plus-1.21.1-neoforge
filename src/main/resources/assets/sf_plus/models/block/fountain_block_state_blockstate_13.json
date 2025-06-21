@@ -1,0 +1,9 @@
+{
+  "parent": "sf_plus:custom/fountain_firework",
+  "textures": {
+    "all": "sf_plus:block/firework_fountain14",
+    "particle": "sf_plus:block/firework_fountain14",
+    "2": "sf_plus:block/firework_fountain14"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,99 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:blank_shell_half"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:blank_charge"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:timer_fuse"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:blank_shell_half"
+    },
+    {
+      "tag": "sf_plus:glue"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:firework_shell_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "forge:dyes"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "type": "forge:nbt",
+	  "item": "minecraft:potion",
+	  "nbt": "{Potion:'minecraft:water'}"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "tag": "sf_plus:glue"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:fountain_item",
+    "count": 1
+  }
+}

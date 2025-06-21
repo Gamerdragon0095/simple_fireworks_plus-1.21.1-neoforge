@@ -1,0 +1,111 @@
+{
+  "parent": "sf_plus:custom/fountain_firework",
+  "textures": {
+    "2": "sf_plus:block/firework_fountain16",
+    "particle": "sf_plus:item/firework_fountain1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 0
+      },
+      "model": "sf_plus:item/fountain_item_0"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 1
+      },
+      "model": "sf_plus:item/fountain_item_1"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 2
+      },
+      "model": "sf_plus:item/fountain_item_2"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 3
+      },
+      "model": "sf_plus:item/fountain_item_3"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 4
+      },
+      "model": "sf_plus:item/fountain_item_4"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 5
+      },
+      "model": "sf_plus:item/fountain_item_5"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 6
+      },
+      "model": "sf_plus:item/fountain_item_6"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 7
+      },
+      "model": "sf_plus:item/fountain_item_7"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 8
+      },
+      "model": "sf_plus:item/fountain_item_8"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 9
+      },
+      "model": "sf_plus:item/fountain_item_9"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 10
+      },
+      "model": "sf_plus:item/fountain_item_10"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 11
+      },
+      "model": "sf_plus:item/fountain_item_11"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 12
+      },
+      "model": "sf_plus:item/fountain_item_12"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 13
+      },
+      "model": "sf_plus:item/fountain_item_13"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 14
+      },
+      "model": "sf_plus:item/fountain_item_14"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 15
+      },
+      "model": "sf_plus:item/fountain_item_15"
+    },
+    {
+      "predicate": {
+        "sf_plus:fountain_item_color": 16
+      },
+      "model": "sf_plus:item/fountain_item_16"
+    }
+  ]
+}

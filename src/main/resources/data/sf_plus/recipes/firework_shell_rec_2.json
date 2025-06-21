@@ -1,0 +1,99 @@
+{
+  "type": "sf_plus:pyro_table_rect",
+  "ingredients": [
+    {
+      "item": "sf_plus:blank_shell_half"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:blank_shell_half"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:blank_charge"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "tag": "sf_plus:glue"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "item": "sf_plus:mini_firework_stars"
+    },
+    {
+      "tag": "sf_plus:glue"
+    },
+    {
+      "item": "sf_plus:blank_shell_half"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:timer_fuse"
+    },
+    {
+      "item": "sf_plus:reinforced_paper"
+    },
+    {
+      "item": "sf_plus:blank_shell_half"
+    }
+  ],
+  "output": {
+    "item": "sf_plus:firework_shell_item",
+    "count": 1
+  }
+}

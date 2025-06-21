@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sf_plus:block/pyro_table_bottom",
+    "up": "sf_plus:block/pyro_table_top",
+    "north": "sf_plus:block/pyro_table_side1",
+    "east": "sf_plus:block/pyro_table_side0",
+    "south": "sf_plus:block/pyro_table_side0",
+    "west": "sf_plus:block/pyro_table_side0",
+    "particle": "sf_plus:block/pyro_table_bottom"
+  },
+  "render_type": "solid"
+}

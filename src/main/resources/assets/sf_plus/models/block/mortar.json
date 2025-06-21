@@ -1,0 +1,9 @@
+{
+  "parent": "sf_plus:custom/firework_mortar",
+  "textures": {
+    "all": "sf_plus:block/mortar_block",
+    "particle": "sf_plus:block/mortar_block_particle",
+    "1": "sf_plus:block/mortar_block"
+  },
+  "render_type": "cutout"
+}
