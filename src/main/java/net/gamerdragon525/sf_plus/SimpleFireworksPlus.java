@@ -4,6 +4,7 @@ import net.gamerdragon525.sf_plus.block.ModBlocks;
 import net.gamerdragon525.sf_plus.block.entity.ModBlockEntities;
 import net.gamerdragon525.sf_plus.entity.ModEntities;
 import net.gamerdragon525.sf_plus.item.ModItems;
+import net.gamerdragon525.sf_plus.jei_recipes.serializers.ModRecipeSerializers;
 import net.gamerdragon525.sf_plus.screen.ModMenuTypes;
 import net.gamerdragon525.sf_plus.screen.MortarScreen;
 import net.minecraft.util.Tuple;
@@ -48,6 +49,7 @@ public class SimpleFireworksPlus
         ModBlocks.register(modEventBus);
         ModBlockEntities.REGISTRY.register(modEventBus);
         ModEntities.REGISTRY.register(modEventBus);
+        //ModRecipeSerializers.REGISTRY.register(modEventBus);
 
         ModMenuTypes.register(modEventBus);
 

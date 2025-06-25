@@ -95,7 +95,7 @@
     }
   ],
   "output": {
-    "item": "sf_plus:firework_fan_shell_with_charge",
+    "id": "sf_plus:firework_fan_shell_with_charge",
     "count": 1
   }
 }

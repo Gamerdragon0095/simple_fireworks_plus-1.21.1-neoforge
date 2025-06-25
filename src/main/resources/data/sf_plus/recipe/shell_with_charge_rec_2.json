@@ -8,55 +8,10 @@
       "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "item": "sf_plus:blank_shell_half"
-    },
-    {
       "tag": "sf_plus:jei_empty_tag"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "item": "sf_plus:blank_charge"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
-    },
-    {
-      "item": "sf_plus:mini_firework_stars"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
@@ -68,7 +23,7 @@
       "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "item": "sf_plus:timer_fuse"
+      "tag": "sf_plus:jei_empty_tag"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
@@ -83,17 +38,64 @@
       "item": "sf_plus:reinforced_paper"
     },
     {
-      "item": "sf_plus:blank_shell_half"
+      "item": "sf_plus:firework_shell_item"
     },
     {
-      "tag": "sf_plus:glue"
+      "item": "sf_plus:reinforced_paper"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "type": "forge:nbt",
+	  "item": "minecraft:potion",
+	  "nbt": "{Potion:'minecraft:water'}"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:glue"
     }
   ],
   "output": {
-    "item": "sf_plus:firework_shell_item",
+    "id": "sf_plus:shell_with_charge",
     "count": 1
   }
 }

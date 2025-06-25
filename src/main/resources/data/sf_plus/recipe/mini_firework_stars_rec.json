@@ -95,7 +95,7 @@
     }
   ],
   "output": {
-    "item": "sf_plus:mini_firework_stars",
+    "id": "sf_plus:mini_firework_stars",
     "count": 8
   }
 }

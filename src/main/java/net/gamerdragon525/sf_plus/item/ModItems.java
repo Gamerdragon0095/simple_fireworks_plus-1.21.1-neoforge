@@ -2,9 +2,10 @@ package net.gamerdragon525.sf_plus.item;
 
 import net.gamerdragon525.sf_plus.SimpleFireworksPlus;
 //import net.gamerdragon525.sf_plus.entity.ModEntities;
+import net.gamerdragon525.sf_plus.dragon_lib.item.NullItem;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
-import net.neoforged.neoforge.common.DeferredSpawnEggItem;
+//import net.neoforged.neoforge.common.DeferredSpawnEggItem;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
@@ -27,6 +28,10 @@ public class ModItems {
         public static final DeferredItem<Item> FIREWORK_FAN_SHELL = ITEMS.register("firework_fan_shell", () -> new Item(new Item.Properties()));
         public static final DeferredItem<Item> FIREWORK_FAN_SHELL_WITH_CHARGE = ITEMS.register("firework_fan_shell_with_charge", () -> new Item(new Item.Properties()));
         public static final DeferredItem<Item> SPARKLER = ITEMS.register("sparkler", () -> new Item(new Item.Properties()));
+        public static final DeferredItem<Item> WEAK_GLUE = ITEMS.register("weak_glue", () -> new Item(new Item.Properties()));
+
+        //ignore this...
+        //public static final DeferredItem<Item> NULL_ITEM = ITEMS.register("null", () -> new NullItem(new Item.Properties()));
 
 
 

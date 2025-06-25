@@ -6,6 +6,7 @@
     "minecraft:splash_potion",
     "minecraft:lingering_potion",
     "minecraft:honey_bottle",
-    "sf_plus:leather_glue"
+    "sf_plus:leather_glue",
+    "sf_plus:weak_glue"
   ]
 }

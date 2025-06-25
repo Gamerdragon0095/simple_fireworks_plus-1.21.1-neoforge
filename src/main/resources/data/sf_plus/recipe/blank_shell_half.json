@@ -1,28 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    " a ",
-    "bcd"
-  ],
   "key": {
     "a": {
       "item": "sf_plus:reinforced_paper"
     },
     "b": {
-      "type": "forge:nbt",
-	  "item": "minecraft:potion",
-	  "nbt": "{Potion:'minecraft:water'}"
+      "item": "sf_plus:weak_glue"
     },
     "c": {
       "item": "minecraft:bowl"
     },
     "d": {
-      "item": "sf_plus:spider_eye_glue"
+      "tag": "sf_plus:glue"
     }
   },
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
   "result": {
-    "item": "sf_plus:blank_shell_half",
+    "id": "sf_plus:blank_shell_half",
     "count": 1
   }
 }

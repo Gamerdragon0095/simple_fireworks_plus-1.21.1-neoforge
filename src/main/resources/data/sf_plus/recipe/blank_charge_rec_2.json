@@ -35,43 +35,43 @@
       "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "tag": "forge:dyes"
+      "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "item": "minecraft:stick"
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "tag": "sf_plus:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:paper"
     },
     {
       "item": "minecraft:gunpowder"
     },
     {
-      "tag": "sf_plus:jei_empty_tag"
+      "item": "minecraft:paper"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "tag": "forge:dyes"
+      "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "item": "minecraft:stick"
+      "item": "minecraft:paper"
     },
     {
       "item": "minecraft:gunpowder"
     },
     {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "tag": "sf_plus:jei_empty_tag"
-    },
-    {
-      "tag": "forge:dyes"
-    },
-    {
-      "item": "minecraft:stick"
-    },
-    {
-      "item": "minecraft:gunpowder"
+      "item": "minecraft:paper"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
@@ -80,22 +80,20 @@
       "tag": "sf_plus:jei_empty_tag"
     },
     {
-      "type": "forge:nbt",
-	  "item": "minecraft:potion",
-	  "nbt": "{Potion:'minecraft:water'}"
+      "item": "minecraft:paper"
     },
     {
-      "item": "minecraft:stick"
+      "item": "minecraft:paper"
     },
     {
-      "tag": "sf_plus:glue"
+      "item": "minecraft:paper"
     },
     {
       "tag": "sf_plus:jei_empty_tag"
     }
   ],
   "output": {
-    "item": "sf_plus:sparkler",
+    "id": "sf_plus:blank_charge",
     "count": 1
   }
 }

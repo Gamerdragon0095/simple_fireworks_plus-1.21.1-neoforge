@@ -1,5 +1,5 @@
 {
-  "type": "sf_plus:pyro_table_rect",
+  "type": "sf_plus:pyro_table_type",
   "ingredients": [
     {
       "item": "sf_plus:blank_shell_half"
@@ -93,7 +93,7 @@
     }
   ],
   "output": {
-    "item": "sf_plus:firework_shell_item",
+    "id": "sf_plus:firework_shell_item",
     "count": 1
   }
 }

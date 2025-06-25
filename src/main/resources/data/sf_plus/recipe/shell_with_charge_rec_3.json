@@ -95,7 +95,7 @@
     }
   ],
   "output": {
-    "item": "sf_plus:shell_with_charge",
+    "id": "sf_plus:shell_with_charge",
     "count": 1
   }
 }

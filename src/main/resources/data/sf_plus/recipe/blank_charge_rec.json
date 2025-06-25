@@ -1,0 +1,20 @@
+{
+  "type": "sf_plus:pyro_table_type",
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "  a  ",
+    " aba ",
+    " aaa "
+  ],
+  "result": {
+    "id": "sf_plus:blank_charge",
+    "count": 1
+  }
+}
