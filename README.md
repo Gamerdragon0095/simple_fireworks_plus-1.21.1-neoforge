@@ -1,8 +1,8 @@
 WIP:
 =======
 This mod comes with a version of DragonLib which is a library mod I'm currently working on, the first version is pretty much finished
-I just still have to figure out how to actually make it so that you can import it into
-a new project as a dependency mod!
+I just still have to figure out how to actually make it so that you can import it into 
+a new project as a dependency mod! 
 
 So for now I just decided to add this little message in the read-me file to clarify!
 
